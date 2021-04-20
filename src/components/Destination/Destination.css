@@ -1,0 +1,39 @@
+.destination{}
+.destination__content{
+    display: grid;
+    grid-template-columns: 380px 1fr;
+}
+.destination__search{}
+.destination__form{
+    background-color:antiquewhite;
+    padding:20px;
+    border-radius: 10px;
+}
+.destination__form .input__group{
+    
+
+}
+.destination__form .input__group label{}
+.destination__form .input__group input{
+    width:100%;
+    display:block;
+    padding:10px;
+    margin:10px;
+    border-radius: 5px;
+    border:0;
+    outline:0;
+    font-size:16px;
+}
+.destination__form .btn__primary{
+    border:0;
+    width:100%;
+    display: inline-block;
+    cursor: pointer;
+}
+.destination_map--box{}
+.destination__map{
+    width:100%;
+    height:700px;
+    border:0;
+    border-radius:10px;
+}

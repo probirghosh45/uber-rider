@@ -1,0 +1,17 @@
+.vehicle__card{
+           background: rgb(82, 240, 9);
+           padding:20px;
+           border-radius: 20px;
+           display:block;
+           text-decoration: none;
+           color:initial; 
+
+           /* color initial dile Card ar name "Bike/car/bus"  ar color kalo hoye jabe,"text-decoration: none dile Text ar nicer underline cole jabe;"*/
+           /* Display Block:none dile ar text background color k je block kore rakhe ota korbe na... */
+}
+.vehicle__icon{
+    height: 190px;
+}
+.vehicles__name{
+
+}
